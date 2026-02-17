@@ -1,6 +1,7 @@
 # Dataset files (too large for GitHub)
-archive/
+# Ignore all CSV files except CEAS_08.csv
 *.csv
+!archive/CEAS_08.csv
 
 # Python
 __pycache__/
