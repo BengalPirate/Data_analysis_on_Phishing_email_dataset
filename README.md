@@ -18,8 +18,6 @@ Alam, Naser Abdullah. (2024). Phishing Email Dataset. Kaggle.
 https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
 ```
 
-**Note:** You must create a free Kaggle account to download the dataset.
-
 ## Features
 
 The analysis includes:
